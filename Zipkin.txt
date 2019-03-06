@@ -1,6 +1,10 @@
 
 Zipkin - Distributed Tracing Server (System)
 
+RabbitMQ installation guide -> https://www.youtube.com/watch?v=gKzKUmtOwR4
+
+Download the JAR at https://zipkin.io/pages/quickstart.html
+
 Google -> zipkin quick start
 1. Go to Java approach - Minimum we need Java 8 installed on our machine
 2. Get the URL to download the zipkin jar
